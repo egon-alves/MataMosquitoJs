@@ -10,6 +10,8 @@ Versao 1.1 (main)  <br />
  Criado o cenario  <br />
  Criado Cronometro  <br />
  Criado painel de vida <br />
+ Controlando os pontos de vida <br />
+ Implementar o fluxo de game over 
 
  
 
