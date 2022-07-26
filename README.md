@@ -1,6 +1,6 @@
 Projeto Iniciado 
-Link do video 
-https://youtu.be/o4DVPztuk7Q
+Link do video <br />
+https://youtu.be/o4DVPztuk7Q<br />
 <ul>
 Versao 1.0 (main) <br /> 
     Definindo a dimenssão do palco do jogo <br />
