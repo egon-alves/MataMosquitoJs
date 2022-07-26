@@ -12,8 +12,10 @@ Versao 1.1 (main)  <br />
  Criado painel de vida <br />
  Controlando os pontos de vida <br />
  Implementar o fluxo de game over <br />
- Adicionando cronometro <br />
- Adicionando campo de vitoria  <br />w
+ Adicionado cronometro <br />
+ Adicionado campo de vitoria  <br />
+ Adicianado Meu de dificuldade <br />
+ Aplicado o nivel de dificuldade <br />
 
  
 
