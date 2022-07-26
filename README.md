@@ -13,6 +13,7 @@ Versao 1.1 (main)  <br />
  Controlando os pontos de vida <br />
  Implementar o fluxo de game over <br />
  Adicionando cronometro <br />
+ Adicionando campo de vitoria  <br />w
 
  
 
