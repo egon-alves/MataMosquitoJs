@@ -5,22 +5,23 @@ html {
 body {
     background-image: url('imagens/bg.jpg') ;
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 /* Area tamnho mosquito e os lados */
 
 .mosquito1 {
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
 }
 
 .mosquito2 {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
 }
 .mosquito3 {
-    width: 90px;
-    height: 90px;
+    width: 100px;
+    height: 100px;
 }
 
 .ladoA {
@@ -28,10 +29,6 @@ body {
 }
 .ladoB {
     transform: scaleX(-1);
-}
-
-.Textdogit {
-    
 }
 
 /*  Area painel  */

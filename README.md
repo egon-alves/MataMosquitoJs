@@ -17,5 +17,16 @@ Versao 1.1 (main)  <br />
  Adicianado Meu de dificuldade <br />
  Aplicado o nivel de dificuldade <br />
 
+ ------------------------------------------
+
+ <hr>
+
+ Correções a serem feitas.
+ (F) tamanho dos objetos -
+ 
+ Erros Identificados 
+ (F) Ao vencer o jogo não mostra pagina da vitorio 
+ (F) Níveis não estao sendo aplicados 
+
  
 
