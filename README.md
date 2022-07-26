@@ -1,4 +1,6 @@
 Projeto Iniciado 
+Link do video 
+https://youtu.be/o4DVPztuk7Q
 <ul>
 Versao 1.0 (main) <br /> 
     Definindo a dimenssão do palco do jogo <br />
@@ -15,18 +17,18 @@ Versao 1.1 (main)  <br />
  Adicionado cronometro <br />
  Adicionado campo de vitoria  <br />
  Adicianado Meu de dificuldade <br />
- Aplicado o nivel de dificuldade <br />
+ Aplicado o nivel de dificuldade <br /><br />
 
  ------------------------------------------
 
  <hr>
 
- Correções a serem feitas.
- (F) tamanho dos objetos -
- 
- Erros Identificados 
- (F) Ao vencer o jogo não mostra pagina da vitorio 
- (F) Níveis não estao sendo aplicados 
-
+ Correções a serem feitas.<br /><br />
+ (F) tamanho dos objetos -<br /><br />
+ <br />
+ Erros Identificados <br />
+ (F) Ao vencer o jogo não mostra pagina da vitorio <br />
+ (F) Níveis não estao sendo aplicados <br />
+<br />
  
 
