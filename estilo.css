@@ -1,3 +1,10 @@
+body {
+    background-image: url('imagens/bg.jpg') ;
+    background-repeat: no-repeat;
+}
+
+/* Area tamnho mosquito e os lados */
+
 .mosquito1 {
     width: 30px;
     height: 30px;
@@ -21,4 +28,27 @@
 
 .Textdogit {
     
+}
+
+/*  Area painel  */
+
+.painel {
+    position: absolute;
+    width: 190px;
+    padding: 10px ;
+    left:0px ;
+    bottom: 0px;
+    border-bottom: solid 1px white;
+    background-color: white;
+    opacity: 0.7;
+    border-radius: 0px 10px 0px 0px;
+}
+
+.vidas {
+    float: left;
+}
+.cronometro {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
 }
