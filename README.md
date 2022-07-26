@@ -11,7 +11,8 @@ Versao 1.1 (main)  <br />
  Criado Cronometro  <br />
  Criado painel de vida <br />
  Controlando os pontos de vida <br />
- Implementar o fluxo de game over 
+ Implementar o fluxo de game over <br />
+ Adicionando cronometro <br />
 
  
 
