@@ -1,39 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+	<head>
+		<title></title>
+		<meta charset="UTF-8" />
+		<link rel="stylesheet" href="estilo.css" />
+		<script src="jogo.js"></script>
+	</head>
+	<body onresize="ajustaTamanhoPalcoJogo()">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matando Mosquito</title>
-    <link rel="stylesheet" href="estilo.css" type="Text/css">
-    <script src="jogo.js"></script>
+		<div class="painel">
+			<div class="vidas">
+				<img id="v1" src="imagens/coracao_cheio.png" />
+				<img id="v2" src="imagens/coracao_cheio.png" />
+				<img id="v3" src="imagens/coracao_cheio.png" />
+			</div>
 
-</head>
+			<div class="cronometro">Tempo restante: <span id="cronometro"></span></div>
+		</div>
 
-<body onresize="ajustaTamanhoPalcoJogo()">
-    
-    <div class="painel"> <!--Inicio Painel-->
-        <div class="vidas">
-            <img id="v1" src="imagens/coracao_cheio.png" >
-            <img id="v2" src="imagens/coracao_cheio.png" >
-            <img id="v3" src="imagens/coracao_cheio.png" >
+		<script>
+			document.getElementById('cronometro').innerHTML = tempo
 
-
-        </div>
-        <div class="cronometro">Tempo restante: <span id="cronometro"></span> </div>
-    </div> <!--Fim Painel-->
-    
-    <script>
-
-        document.getElementById('cronometro').innerHTML = tempo 
-       
-       var criaMosquito = setInterval(function() {
-        posicaoRandomica()
-
-       },2000)
-    </script>
-
-</body>
-
+			var criaMosca = setInterval(function() { 
+				posicaoRandomica()
+			}, 2000)
+		</script>
+	</body>
 </html>
