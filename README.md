@@ -1,5 +1,5 @@
 Projeto Iniciado 
-<ol>
+<ul>
 Versao 1.0 (main) <br /> 
     Definindo a dimenssão do palco do jogo <br />
     Criando posição ranomicas  <br />
